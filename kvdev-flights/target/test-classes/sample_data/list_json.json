@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music empfname="karu" emplname="velu">
+	<artists>
+		<artist name="1234" >
+			<discography>
+				<album>uyirea</album>
+				<album>urvashi</album>
+				<album>kannalanae</album>
+			</discography>
+
+		</artist>
+		<artist name="567" >
+			<discography>
+				<album>kannaae</album>
+				<album>enthan</album>
+			</discography>
+		</artist>
+
+	</artists>
+
+</music>

@@ -1,0 +1,11 @@
+{
+    "inputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "empxml"
+        }
+    },
+    "outputMessageMetadata": {},
+    "id": "624c40fd-5791-4618-8fd9-e2a88a1640dd",
+    "version": "5.2.0.0"
+}

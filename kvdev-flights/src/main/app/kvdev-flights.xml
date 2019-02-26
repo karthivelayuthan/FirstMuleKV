@@ -55,8 +55,8 @@ WHERE ID=#[message.inboundProperties.'http.uri.params'.ID]]]></db:parameterized-
 %output application/json
 ---
 payload map ((payload01 , indexOfPayload01) -> {
-	ID: payload01.ID,
-	code: payload01.code1
+	ID1: payload01.ID,
+	code1: payload01.code1
 ++ payload01.code2,
 	price: payload01.price as :number,
 	departureDate: payload01.takeOffDate as :string,
